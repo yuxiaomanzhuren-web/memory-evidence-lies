@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24197495.svg)](https://doi.org/10.5281/zenodo.24197495)
+
 # Where Memory Systems Lie — failure cases for evidence-grounded recall
 
 This repository collects **real failure cases** observed in a long-running personal memory system (raw-dialogue store → extracted memories → gate checks → prompt injection → outgoing reply check).
